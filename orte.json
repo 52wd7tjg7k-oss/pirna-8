@@ -1,0 +1,95 @@
+{
+  "source": "POI-Auswahl aus früherem PirnaSmart-Prototyp; nicht aktuell verifiziert",
+  "places": [
+    {
+      "id": "v1",
+      "name": "Historischer Marktplatz",
+      "type": "sight",
+      "lat": 50.9627,
+      "lon": 13.9414,
+      "addr": "Am Markt, 01796 Pirna",
+      "price": 0,
+      "desc": "Historischer Marktplatz in der Altstadt"
+    },
+    {
+      "id": "v2",
+      "name": "Schloss Sonnenstein",
+      "type": "sight",
+      "lat": 50.9622,
+      "lon": 13.9508,
+      "addr": "Schlosshof 2/4, 01796 Pirna",
+      "price": 0,
+      "desc": "Schlossanlage von außen; Bastionenführung saisonal und kostenpflichtig"
+    },
+    {
+      "id": "v3",
+      "name": "StadtMuseum Pirna",
+      "type": "sight",
+      "lat": 50.964,
+      "lon": 13.9395,
+      "addr": "Klosterhof 2, 01796 Pirna",
+      "price": 6,
+      "desc": "Erwachsene 6 €, ermäßigt 4 €, bis 18 Jahre frei; Di–So 10–17 Uhr"
+    },
+    {
+      "id": "v4",
+      "name": "Stadtkirche St. Marien",
+      "type": "sight",
+      "lat": 50.9638,
+      "lon": 13.9427,
+      "addr": "Kirchplatz 14, 01796 Pirna",
+      "price": 0,
+      "desc": "Besichtigung; Spende empfohlen (1 € pro Erwachsenem)"
+    },
+    {
+      "id": "f1",
+      "name": "Restaurant Schifftor",
+      "type": "food",
+      "lat": 50.9618,
+      "lon": 13.9439,
+      "addr": "Lange Straße 31, 01796 Pirna",
+      "price": 22,
+      "desc": "Restaurant · Budget pro Person simuliert"
+    },
+    {
+      "id": "f2",
+      "name": "Platzhirsch Pirna",
+      "type": "food",
+      "lat": 50.9627,
+      "lon": 13.9406,
+      "addr": "Am Markt 4, 01796 Pirna",
+      "price": 20,
+      "desc": "Burgerrestaurant · Budget pro Person simuliert"
+    },
+    {
+      "id": "f3",
+      "name": "Restaurant Felsenbirne",
+      "type": "food",
+      "lat": 50.9621,
+      "lon": 13.9451,
+      "addr": "Lange Straße 34, 01796 Pirna",
+      "price": 32,
+      "desc": "Restaurant · Budget pro Person simuliert"
+    },
+    {
+      "id": "f4",
+      "name": "Canaletto Pirna",
+      "type": "food",
+      "lat": 50.9628,
+      "lon": 13.9425,
+      "addr": "Schuhgasse 16, 01796 Pirna",
+      "price": 14,
+      "desc": "Café und Restaurant · Budget pro Person simuliert"
+    },
+    {
+      "id": "f5",
+      "name": "Funkenhöfchen",
+      "type": "food",
+      "lat": 50.9637,
+      "lon": 13.9425,
+      "addr": "Kirchplatz 1, 01796 Pirna",
+      "price": 24,
+      "desc": "Restaurant · Budget pro Person simuliert"
+    }
+  ]
+}
